@@ -1,0 +1,21 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+
+@media (max-width: 575px) {
+  .text1 h1 {
+    font-size: 30px;
+  }
+  .text1 p {
+    font-size: 20px;
+  }
+  .ourservice h1 {
+    text-align: center;
+    top: 0;
+  }
+  .ourservice p {
+    top: 0;
+    text-align: center;
+  }
+}
